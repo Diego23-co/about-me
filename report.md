@@ -1,0 +1,1 @@
+# This lab involves the creation of the repository on github, and branches "main' and "feature/student-detailS" and commits, and  deploy an HTML file.
